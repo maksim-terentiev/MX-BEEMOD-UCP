@@ -1,0 +1,151 @@
+"ID"		"MX_HL2_BARREL"
+"Name"		"Barrel from Half-Life 2"
+"Desc"      "Explosive barrel which explodes and press buttons"
+
+"Item"
+	{
+	"ID" "ITEM_MX_HL2_BARREL"
+	"Description"
+		{
+		"" "Explosive barrel from Half-life 2."
+		"" "* Catch fire on damage and explode after short period of time."
+		"" "* Leave gibs."
+		"" "* Can be damaged by lasers, turrets, explosions from other barrels and anything that coded to do damage."
+		"" "* Fizzling the barrel will harmlessly destroy it, either it's a fizzler or respawn."
+		"" "* To place a dropper version, place the item underneath a regular cube dropper, or use the [timer to link them](https://github.com/BEEmod/BEE2-items/wiki/Default-PeTI-Items#cubes)."
+		"" "* Can be colored by colorizer item."
+		"" "* Prepainted barrels are not supported."
+		"" ""
+		"" "* Item made by MX."
+		"" "* Barrel signs by Fnaf_larper."
+		}
+	"Unstyled" "1"
+	"Version"
+		{
+		"Styles"
+			{
+			"ANY"    "hl2_barrel"
+			}
+		}
+	}
+
+"Signage"
+	{
+		"ID" "BARREL_MUSHROOM_COLOR"
+		"Name" "Barrel mushroom color"
+		"Hidden" "0"
+		"Styles"
+			{
+			"BEE2_CLEAN"
+				{
+				"type" "square"
+				"overlay" "bee2/signage/fnaf_larper/barrel_boom_color_1_signage"
+				"icon" "items/signage/fnaf_larper/barrel_boom_color_1_signage.png"
+				}
+		}
+	}
+"Signage"
+	{
+		"ID" "BARREL_BUTTON"
+		"Name" "Barrel on button"
+		"Hidden" "0"
+		"Styles"
+			{
+			"BEE2_CLEAN"
+				{
+				"type" "square"
+				"overlay" "bee2/signage/fnaf_larper/barrel_on_button_signage"
+				"icon" "items/signage/fnaf_larper/barrel_on_button_signage.png"
+				}
+		}
+	}
+"Signage"
+	{
+		"ID" "BARREL_BUTTON_COLOR"
+		"Name" "Barrel on button color"
+		"Hidden" "0"
+		"Styles"
+			{
+			"BEE2_CLEAN"
+				{
+				"type" "square"
+				"overlay" "bee2/signage/fnaf_larper/barrel_on_button_color_signage"
+				"icon" "items/signage/fnaf_larper/barrel_on_button_color_signage.png"
+				}
+		}
+	}
+"Signage"
+	{
+		"ID" "BARREL_MUSHROOM"
+		"Name" "Barrel mushroom"
+		"Hidden" "0"
+		"Styles"
+			{
+			"BEE2_CLEAN"
+				{
+				"type" "square"
+				"overlay" "bee2/signage/fnaf_larper/barrel_exploding_signage"
+				"icon" "items/signage/fnaf_larper/barrel_exploding_signage.png"
+				}
+		}
+	}
+"Signage"
+	{
+		"ID" "BARREL_LASER"
+		"Name" "Barrel laser"
+		"Hidden" "0"
+		"Styles"
+			{
+			"BEE2_CLEAN"
+				{
+				"type" "square"
+				"overlay" "bee2/signage/fnaf_larper/barrel_exploding_laser_signage"
+				"icon" "items/signage/fnaf_larper/barrel_exploding_laser_signage.png"
+				}
+		}
+	}
+"Signage"
+	{
+		"ID" "BARREL_DROPPER"
+		"Name" "Barrel dropper"
+		"Hidden" "0"
+		"Styles"
+			{
+			"BEE2_CLEAN"
+				{
+				"type" "square"
+				"overlay" "bee2/signage/fnaf_larper/barrel_dropper_signage"
+				"icon" "items/signage/fnaf_larper/barrel_dropper_signage.png"
+				}
+		}
+	}
+"Signage"
+	{
+		"ID" "BARREL_DROPPER_COLOR"
+		"Name" "Barrel dropper color"
+		"Hidden" "0"
+		"Styles"
+			{
+			"BEE2_CLEAN"
+				{
+				"type" "square"
+				"overlay" "bee2/signage/fnaf_larper/barrel_dropper_color_signage"
+				"icon" "items/signage/fnaf_larper/barrel_dropper_color_signage.png"
+				}
+		}
+	}
+"Signage"
+	{
+		"ID" "BARREL_BOOM"
+		"Name" "Barrel Boom"
+		"Hidden" "0"
+		"Styles"
+			{
+			"BEE2_CLEAN"
+				{
+				"type" "square"
+				"overlay" "bee2/signage/fnaf_larper/barrel_boom_color_2_signage"
+				"icon" "items/signage/fnaf_larper/barrel_boom_color_2_signage.png"
+				}
+		}
+	}

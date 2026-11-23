@@ -1,0 +1,10 @@
+"Properties"
+	{
+	"Authors"   "MX,Fnaf_larper"
+	"Tags"      "HL2"
+	//"infoURL"   ""
+	"Icon"
+		{
+			"0"		"clean/hl2_barrel.png"
+		}
+	}

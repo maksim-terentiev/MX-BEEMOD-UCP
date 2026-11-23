@@ -1,0 +1,66 @@
+"Item"
+	{
+	"Type"  "ITEM_MX_HL2_BARREL"
+	"Editor"
+		{
+		"SubType"
+			{
+			"Name"		"HL2 Barrel"
+			"Model"
+				{
+					"ModelName"		"bee2/mx/barrel.3ds"
+				}
+			"Palette"
+				{
+				"Tooltip"	"HL2 BARREL"
+				"Image"		"palette/clean/hl2_barrel"
+				}
+			"Sounds"
+				{
+				"SOUND_CREATED"					"P2Editor.PlaceCube"
+				"SOUND_EDITING_ACTIVATE"		"P2Editor.ExpandCube"
+				"SOUND_EDITING_DEACTIVATE"		"P2Editor.CollapseCube"
+				"SOUND_DELETED"					"P2Editor.RemoveCube"
+				}
+			"Animations"
+				{
+					"ANIM_IDLE"							"0"
+					"ANIM_EDITING_ACTIVATE"				"2"
+					"ANIM_EDITING_DEACTIVATE"			"3"
+					"ANIM_FALLING_IDLE"					"1"
+					"ANIM_FALLING_EDITING_ACTIVATE"		"4"
+					"ANIM_FALLING_EDITING_DEACTIVATE"	"5"
+					"ANIM_FALLING_TO_GROUND"			"7"
+					"ANIM_GROUND_TO_FALLING"			"9"
+					"ANIM_FALLING_TO_GROUND_EDITING"	"6"
+					"ANIM_GROUND_TO_FALLING_EDITING"	"8"
+				}
+			}
+		"MovementHandle"			"HANDLE_NONE"
+		"CanAnchorOnBarriers"		"1"
+		"CanAnchorOnGoo"			"1"
+		}
+	"Properties"
+		{
+		"TimerDelay"
+			{
+			// Prevent editing this property in the app.
+			"BEE2_ignore"  "1"
+			"DefaultValue" "0"
+			"Index"        "0"
+			}
+		}
+	"Exporting"
+		{
+		"Instances"
+			{
+			"0"
+				{
+				"Name"			"instances/BEE2/clean/items/mx/hl2_barrel.vmf"
+				"EntityCount"	"0"
+				}
+			}
+		"TargetName"		"hl2_barrel"
+		"Offset"	"64 64 64"
+		}
+	}

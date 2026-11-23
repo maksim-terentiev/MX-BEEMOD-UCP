@@ -1,0 +1,5 @@
+UnlitGeneric
+{
+    $basetexture bee2/signage/fnaf_larper/barrel_exploding_signage
+    $decal "1"
+}
