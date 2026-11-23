@@ -1,4 +1,5 @@
 # My UCPs for Portal 2 BEEMOD.
+Download on the [Releases](https://github.com/maksim-terentiev/MX-BEEMOD-UCP/releases) page.
 
 ## Explosive barrel from Half-Life 2.
 * Catch fire on damage and explode after short period of time.
