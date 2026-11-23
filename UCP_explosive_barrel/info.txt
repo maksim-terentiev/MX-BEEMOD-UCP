@@ -12,6 +12,7 @@
 		"" "* Leave gibs."
 		"" "* Can be damaged by lasers, turrets, explosions from other barrels and anything that coded to do damage."
 		"" "* Fizzling the barrel will harmlessly destroy it, either it's a fizzler or respawn."
+		"" "* Can activate buttons, including cube buttons."
 		"" "* To place a dropper version, place the item underneath a regular cube dropper, or use the [timer to link them](https://github.com/BEEmod/BEE2-items/wiki/Default-PeTI-Items#cubes)."
 		"" "* Can be colored by colorizer item."
 		"" "* Prepainted barrels are not supported."
