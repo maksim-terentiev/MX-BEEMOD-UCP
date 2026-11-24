@@ -25,18 +25,20 @@
 			"Animations"
 				{
 					"ANIM_IDLE"							"0"
-					"ANIM_EDITING_ACTIVATE"				"2"
-					"ANIM_EDITING_DEACTIVATE"			"3"
-					"ANIM_FALLING_IDLE"					"1"
-					"ANIM_FALLING_EDITING_ACTIVATE"		"4"
-					"ANIM_FALLING_EDITING_DEACTIVATE"	"5"
-					"ANIM_FALLING_TO_GROUND"			"7"
-					"ANIM_GROUND_TO_FALLING"			"9"
-					"ANIM_FALLING_TO_GROUND_EDITING"	"6"
-					"ANIM_GROUND_TO_FALLING_EDITING"	"8"
+					//"ANIM_EDITING_ACTIVATE"				"2"
+					//"ANIM_EDITING_DEACTIVATE"			"3"
+					"ANIM_EDITING_ACTIVATE"				"9"	// Attempt to make animations,
+					"ANIM_EDITING_DEACTIVATE"			"7"	// successful.
+					//"ANIM_FALLING_IDLE"					"1"
+					//"ANIM_FALLING_EDITING_ACTIVATE"		"4"
+					//"ANIM_FALLING_EDITING_DEACTIVATE"	"5"
+					//"ANIM_FALLING_TO_GROUND"			"7"
+					//"ANIM_GROUND_TO_FALLING"			"9"
+					//"ANIM_FALLING_TO_GROUND_EDITING"	"6"
+					//"ANIM_GROUND_TO_FALLING_EDITING"	"8"
 				}
 			}
-		"MovementHandle"			"HANDLE_NONE"
+		"MovementHandle"			"HANDLE_6_POSITIONS"
 		"CanAnchorOnBarriers"		"1"
 		"CanAnchorOnGoo"			"1"
 		}
