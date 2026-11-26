@@ -13,3 +13,7 @@ Download on the [Releases](https://github.com/maksim-terentiev/MX-BEEMOD-UCP/rel
 "
 * Item made by MX.
 * Barrel signs by Fnaf_larper.
+
+## Breakable barricades
+* 7 breakable objects.
+* Can be easily broken by any damage.
